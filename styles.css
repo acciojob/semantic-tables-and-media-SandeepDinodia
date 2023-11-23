@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	border:1px solid black;
+	width:50%;
+}
